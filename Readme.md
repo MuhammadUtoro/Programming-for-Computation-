@@ -1,0 +1,2 @@
+These Python Codes are the tools for improving my python knowledge especially for scientific computing. The lessons and exercises are taken from the book "Programming for Computation with Python" from Lingen and Lingtangen.
+In most codes, I wrote down the steps, summary, and the details of the lessons to help me learning. 
